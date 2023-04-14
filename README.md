@@ -9,6 +9,8 @@ I used leaflet to map the locations of all the earthquakes. Different colors wer
 
 Lastly, the style CSS file was updated to edit the legend display.
 
+The earthquake map can be found in GitHub pages: https://afermanich87.github.io/leaflet_challenge/
+
 
 ## Sources
 
